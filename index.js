@@ -13,7 +13,7 @@ let clientOptions = {
 };
 const client = new Client(clientOptions);
 
-const NOTIFICATION_CHANNEL_ID = "1492973585676107826";
+const NOTIFICATION_CHANNEL_ID = "1493161716190547989";
 
 client.on("ready", async () => {
   console.log(`${client.user.username} is ready!`);
